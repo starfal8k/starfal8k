@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @starfal8k
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="20240101_211215.gif" width="120" height="120">
 
-<!---
-starfal8k/starfal8k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I starfall or starfal8k
+
+I'm a beginner front-end developer and I'm creating a **Cub Library**
+
+My projects🌟
+<p><a href="https://github.com/sylfurgames/Cub-Library-2.0">Cub Library</a></p>
+
+
+<p><a href="https://t.me/CubTeam">My telegram</a>🤩</p>
